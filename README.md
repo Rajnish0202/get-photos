@@ -1,5 +1,5 @@
 # Live Get-Photos Site Link
-https://nifty-mestorf-3679dd.netlify.app/
+https://getphotos.netlify.app
 
 # Getting Started with Create React App
 
